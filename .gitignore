@@ -1,5 +1,8 @@
 node_modules
 .keystone/admin
-keystone.db
+.keystone
 *.log
 .env.*
+*.db
+.DS_Store
+*.vscode
